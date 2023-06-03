@@ -1,2 +1,2 @@
-# system-stats-collector-service
-Projeto Java para extrair e fornecer métricas do sistema. O projeto utiliza as bibliotecas Looca e Oshi para coletar informações de desempenho, recursos de hardware e estatísticas relevantes. 
+# system--collector-service
+Java project to extract and provide system metrics. The project uses the Looca and Oshi libraries to collect performance information, hardware resources, and relevant statistics.
